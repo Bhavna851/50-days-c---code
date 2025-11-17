@@ -23,3 +23,6 @@ int main(){
     cout<<sumofdigit<<endl;
     return 0;
 }
+output:
+enter a number: -56
+11
