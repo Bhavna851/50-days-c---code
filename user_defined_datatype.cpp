@@ -43,4 +43,18 @@ int main(){
     cout<<Dinner<<endl;
 }return 0;
 }
-    
+ output:
+OUTPUT OF STRUCT
+Employee details:
+employee id: 101
+employee name: Ravi
+employee Salary: 10000
+---------------------------------->
+OUTPUT OF UNION
+student details:
+age: 21
+---------------------------------->
+OUTPUT OF ENUM
+0
+1
+2
